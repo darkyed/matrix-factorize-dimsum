@@ -1,0 +1,17 @@
+test-result/
+proposal*/
+sample_num_res/
+myenv/
+ex_res.txt/
+etc/
+errors/
+dimsum*
+CS328_*
+*.log
+*.py
+*.csv
+*.txt
+stack-que
+dataset/
+*_checkpoints
+inspect-*
