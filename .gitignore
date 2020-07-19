@@ -15,3 +15,4 @@ stack-que
 dataset/
 *_checkpoints
 inspect-*
+by-row-mat/
